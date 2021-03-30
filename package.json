@@ -1,0 +1,27 @@
+{
+  "name": "testjenk",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukalyan132/testJenkings.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^3.12.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "supertest": "^0.13.0"
+  },
+  "author": "sukalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukalyan132/testJenkings/issues"
+  },
+  "homepage": "https://github.com/sukalyan132/testJenkings#readme"
+}
